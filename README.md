@@ -9,47 +9,41 @@ From idea to playable game, InstantEngine removes the slow parts — and replace
 
 # Features
 
-Rule-powered level and system generation (AI Builder)
+- AI-powered level and system generation (AI Builder)  
+- Procedural item creation (weapons, tools, consumables, passives)  
+- Real-time AI playtesting using input simulation (no teleport logic)  
+- Multi-run AI learning with adaptive behavior improvement  
+- Memory system (tracks deaths, failed jumps, safe paths)  
+- Predictive movement system (safe jump and action validation)  
+- Configurable AI behavior modes (Careful, Aggressive, Explorer)  
+- Stuck detection with automatic recovery or strategy switching  
 
-Procedural item creation (weapons, tools, consumables, passives)
+- Icon-driven, minimal UI (no text clutter, fast interaction)  
+- Consistent design system (spacing, colors, alignment)  
+- Smooth UI animations (hover, click, transitions)  
+- Spotlight-style command interface (ALT / CTRL menus)  
 
-Real-time AI playtesting using input simulation (no teleport logic)
+- Drag-select system with multi-object selection  
+- Right-click context menu:
+  - Copy  
+  - Paste  
+  - Duplicate  
+  - Delete  
+  - Save as Preset  
 
-Multi-run AI learning with adaptive behavior improvement
+- Smart preset system with fast reuse and placement  
+- Autosave system with persistent player data (stats, inventory, progress)  
+- Non-intrusive assistant with contextual guidance ("Teach Me")  
 
-Memory system (tracks deaths, failed jumps, safe paths)
+- Performance-optimized rendering and update loops  
+- Chunk-based updates for large levels and simulations  
 
-Predictive movement system (safe jump and action validation)
+- Clean export system (no editor UI in final build)  
+- Functional game flow (menu → start → gameplay)  
 
-Configurable AI behavior modes (Careful, Aggressive, Explorer)
+- Configurable UI panels with improved layout and spacing  
+- Smooth panel transitions and dynamic UI visibility  
 
-Stuck detection with automatic recovery or strategy switching
+- Custom cursor system with context-aware states  
 
-Icon-driven, minimal UI (no text clutter, fast interaction)
-
-Consistent design system (spacing, colors, alignment)
-
-Smooth UI animations (hover, click, transitions)
-
-Spotlight-style command interface (ALT / CTRL menus)
-
-Drag-select system with multi-object selection
-
-Right-click context menu (copy, paste, duplicate, delete, save preset)
-
-Smart preset system with fast reuse and placement
-
-Autosave system with persistent player data (stats, inventory, progress)
-
-Non-intrusive assistant with contextual guidance (“Teach Me”)
-
-Performance-optimized rendering and update loops
-
-Chunk-based updates for large levels and simulations
-
-Clean export system (no editor UI in final build)
-Functional game flow (menu → start → gameplay)
-Configurable UI panels with improved layout and spacing
-Smooth panel transitions and dynamic UI visibility
-Custom cursor system with context-aware states
-Fully browser-based (no install required)
+- Fully browser-based (no installation required)
