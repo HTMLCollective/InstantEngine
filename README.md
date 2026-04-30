@@ -47,3 +47,7 @@ From idea to playable game, InstantEngine removes the slow parts — and replace
 - Custom cursor system with context-aware states  
 
 - Fully browser-based (no installation required)
+
+# License
+
+- This work is licensed under a [Creative Commons Attribution-NoDerivs 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
