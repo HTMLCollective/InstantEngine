@@ -4177,6 +4177,7 @@ function _showStartupMenu(onStart) {
     if(!overlay) { onStart && onStart(); return; }
     
     while(overlay.firstChild) overlay.removeChild(overlay.firstChild);
+    overlay.classList.remove('hidden');
     overlay.style.display = 'flex';
     overlay.style.flexDirection = 'column';
     overlay.style.alignItems = 'center';
